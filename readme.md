@@ -7,7 +7,7 @@ visualize a correlation matrix quickly.
 ## Installation
 
 Now `ggcor` is not on cran, You can install the development version of
-ggcor from [GitHub](https://github.com/) with:
+ggcor from [GitHub](https://github.com/DeepAIDD/ggcor/) with:
 
 ``` r
 # install.packages("devtools")
